@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Favour Chinemerem Nwachukwu
 
-A **Software Engineer**, **Performance Specialist**, and **Quality Assurance Engineer** with a strong focus on building high-performance, scalable systems. I'm passionate about solving complex tech[...]
+A **Software Engineer**, **Performance Specialist**, and **Quality Assurance Engineer** with a strong focus on building high-performance, scalable systems. I'm passionate about solving complex technological problems.
 
 ## 🎯 About Me
 
-I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficie[...]
+I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficient, production-ready solutions across both frontend and backend systems. I'm also deeply committed to community service, sustainability, and continuous learning across cultures.
 
 **Location:** Lagos, Nigeria  
 **Email:** [phavorfavor@gmail.com](mailto:phavorfavor@gmail.com)  
@@ -21,13 +21,13 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 
 ## 💼 Professional Experience
 
-### **QUALITY ENGINEER - HITCHMAP** *(11/07/2025 – Current | Lagos, Nigeria)*
+### **QUALITY ASSURANCE ENGINEER - HITCHPAY TECHNOLOGY** *(11/07/2025 – 16/06/2026 | Lagos, Nigeria)*
 - Refactored microfile recipes into a modular code structure, clarifying boundaries and reducing complexity
 - Established robust QA infrastructure for cross-platform mobile and web applications
 - Implemented and standardized Postman collections with dynamic variables and naming conventions
 - Designed automated test scripts, improving documentation and failure triage
 
-### **HITCAP PLATFORM TECHNICAL CONTENT & VISUALS - VISUOLIA PLATFORMS LTD** *(08/12/2025 – 24/06/2025 | Lagos)*
+### **WAVEME PLATFORM TECHNICAL CONTENT & VISUALS - VISIFLUX PLATFORMS LTD** *(08/12/2025 – 24/06/2025 | Lagos)*
 - Led end-to-end performance QA initiatives across admin consoles and web platforms
 - Executed comprehensive audit logging for platform visibility and compliance
 - Implemented synthetic monitoring and real User Monitoring (RUM) strategies
@@ -40,7 +40,7 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 - Managed full software lifecycle (SDLC) from requirements to deployments
 - Collaborated with data scientists on ML model performance and reliability
 
-### **HEAD OF SOFTWARE ENGINEERING / DEVOPS - VISUOLIA PLATFORMS LTD** *(08/12/2022 – 24/06/2025 | Lagos)*
+### **HEAD OF SOFTWARE ENGINEERING / DEVOPS - VISIFLUX PLATFORMS LTD** *(08/12/2022 – 24/06/2025 | Lagos)*
 - Implemented DevOps and cloud strategies, leveraging containerization and microservices
 - Mentored engineers and built high-performing teams with continuous improvement focus
 - Oversaw entire software lifecycle from concept through production deployment
@@ -55,7 +55,7 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 - Optimized backend performance and database query execution times
 - Built microservices architectures using FastAPI and Google Cloud
 
-### **WEB PERFORMANCE ENGINEER - KINFPRO WEB CORP** *(27/03/2022 – 15/07/2024 | Ottawa, Canada)*
+### **WEB PERFORMANCE ENGINEER - KNFRMD WEB CORP** *(27/03/2022 – 15/07/2024 | Ottawa, Canada)*
 - Led performance optimization initiatives across multiple platforms
 - Conducted A/B testing and performance validation on large-scale applications
 - Built service architectures using Firebase and Google Cloud
@@ -65,10 +65,10 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 **Bachelor of Engineering** - Abia State University *(2019 – 2023)*  
 Field of Study: Information and Communication Technology (ICT)
 
-**Software Engineering Studies - South Korea** *(Exchange/Study Period)*  
+**Software Engineering - South Korea** *(Exchange/Study Period)*  
 - Sejong University, Seoul, Gyeonggi, South Korea
-- Studied Software Engineering at leading Korean institutions
-- Completed coursework at **Knfrmd Web Corp**, **Visiflux Platforms**, and **HitchPay Technologies**
+- Studied Software Engineering at leading Korean institution
+- Completed coursework at **Knfrmd Web Corp**
 - Advanced technical studies and cross-cultural learning experience
 
 ## 🛠️ Tech Stack
@@ -88,7 +88,7 @@ Field of Study: Information and Communication Technology (ICT)
 |----------|-------------|
 | **ENGLISH** | Fluent (Native-like) |
 | **IGBO** | Fluent |
-| **KOREAN** | Intermediate |
+| **KOREAN** | Fluent |
 
 ## 🚀 Featured Projects
 
@@ -124,11 +124,11 @@ Field of Study: Information and Communication Technology (ICT)
 
 ## 📊 Technical Expertise
 
-**Software Development & Engineering:** Full-stack development • Backend APIs • Microservices • Frontend development (React, Next.js, TypeScript) • Cloud-based architecture • DevOps •[...]
+**Software Development & Engineering:** Full-stack development • Backend APIs • Microservices • Frontend development (React, Next.js, TypeScript) • Cloud-based architecture • DevOps 
 
-**Performance & Optimization:** Load and stress testing • Application performance monitoring • Designing and implementing high-availability systems • Continuous Integration and Continuous D[...]
+**Performance & Optimization:** Load and stress testing • Application performance monitoring • Designing and implementing high-availability systems • Continuous Integration and Continuous Deployment.
 
-**Management & Leadership:** Process improvement identification • Product improvements • Agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coachin[...]
+**Management & Leadership:** Process improvement identification • Product improvements • Agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coaching.
 
 **Communication & Collaboration:** Cross-functional collaboration • Written and verbal communication • Problem-solving • Analytical thinking • Adaptability
 
