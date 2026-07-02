@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Favour Chinemerem Nwachukwu
 
-A **Software Engineer**, **Performance Specialist**, and **Quality Assurance Engineer** with a strong focus on building high-performance, scalable systems. I'm passionate about solving complex technical challenges through rigorous testing, automation, and cutting-edge engineering practices.
+A **Software Engineer**, **Performance Specialist**, and **Quality Assurance Engineer** with a strong focus on building high-performance, scalable systems. I'm passionate about solving complex tech[...]
 
 ## 🎯 About Me
 
-I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficient, production-ready solutions across both frontend and backend systems. I'm also deeply committed to community service, sustainability, and continuous learning across cultures.
+I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficie[...]
 
 **Location:** Lagos, Nigeria  
 **Email:** [phavorfavor@gmail.com](mailto:phavorfavor@gmail.com)  
@@ -65,8 +65,11 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 **Bachelor of Engineering** - Abia State University *(2019 – 2023)*  
 Field of Study: Information and Communication Technology (ICT)
 
-**International Experience** - Sejong University, Seoul, Gyeonggi, South Korea  
-Exchange/Study Period: Advanced technical studies and cross-cultural learning
+**Software Engineering Studies - South Korea** *(Exchange/Study Period)*  
+- Sejong University, Seoul, Gyeonggi, South Korea
+- Studied Software Engineering at leading Korean institutions
+- Completed coursework at **Knfrmd Web Corp**, **Visiflux Platforms**, and **HitchPay Technologies**
+- Advanced technical studies and cross-cultural learning experience
 
 ## 🛠️ Tech Stack
 
@@ -121,11 +124,11 @@ Exchange/Study Period: Advanced technical studies and cross-cultural learning
 
 ## 📊 Technical Expertise
 
-**Software Development & Engineering:** Full-stack development • Backend APIs • Microservices • Frontend development (React, Next.js, TypeScript) • Cloud-based architecture • DevOps • Software testing • API design
+**Software Development & Engineering:** Full-stack development • Backend APIs • Microservices • Frontend development (React, Next.js, TypeScript) • Cloud-based architecture • DevOps •[...]
 
-**Performance & Optimization:** Load and stress testing • Application performance monitoring • Designing and implementing high-availability systems • Continuous Integration and Continuous Delivery (CI/CD) • Docker containerization • Cloud platforms (AWS, GCP)
+**Performance & Optimization:** Load and stress testing • Application performance monitoring • Designing and implementing high-availability systems • Continuous Integration and Continuous D[...]
 
-**Management & Leadership:** Process improvement identification • Product improvements • Agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coaching
+**Management & Leadership:** Process improvement identification • Product improvements • Agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coachin[...]
 
 **Communication & Collaboration:** Cross-functional collaboration • Written and verbal communication • Problem-solving • Analytical thinking • Adaptability
 
