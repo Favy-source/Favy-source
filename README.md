@@ -4,10 +4,10 @@ A **Software Engineer**, **Performance Specialist**, and **Quality Assurance Eng
 
 ## 🎯 About Me
 
-I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficient, production-ready solutions across both frontend and backend systems.
+I'm a versatile engineer with **5+ years of experience** across full-stack development, quality assurance, performance optimization, and system architecture. My expertise lies in delivering efficient, production-ready solutions across both frontend and backend systems. I'm also deeply committed to community service, sustainability, and continuous learning across cultures.
 
 **Location:** Lagos, Nigeria  
-**Email:** [shinerfavour@gmail.com](mailto:shinerfavour@gmail.com)  
+**Email:** [phavorfavor@gmail.com](mailto:phavorfavor@gmail.com)  
 **Website:** [www.mocklum.fav.com](http://www.mocklum.fav.com)
 
 ### Key Strengths:
@@ -62,8 +62,11 @@ I'm a versatile engineer with **5+ years of experience** across full-stack devel
 
 ## 🎓 Education
 
-**Bachelor of Engineering** - Ada State University Uturu *(05/09/2019 – 31/05/2023)*  
-Field of Study: Information and Communication Technology (ICT) - Level in IoT, Level 6
+**Bachelor of Engineering** - Abia State University *(2019 – 2023)*  
+Field of Study: Information and Communication Technology (ICT)
+
+**International Experience** - Sejong University, Seoul, Gyeonggi, South Korea  
+Exchange/Study Period: Advanced technical studies and cross-cultural learning
 
 ## 🛠️ Tech Stack
 
@@ -75,6 +78,14 @@ Field of Study: Information and Communication Technology (ICT) - Level in IoT, L
 **Performance Tools:** Load/stress testing • Application performance monitoring • Synthetic monitoring  
 **AI & ML:** TensorFlow • Speech Recognition • Document Processing • Model Optimization  
 **Tools:** Git • Linux • Microservices Architecture • RESTful APIs • GraphQL
+
+## 🌐 Language Skills
+
+| Language | Proficiency |
+|----------|-------------|
+| **ENGLISH** | Fluent (Native-like) |
+| **IGBO** | Fluent |
+| **KOREAN** | Intermediate |
 
 ## 🚀 Featured Projects
 
@@ -114,19 +125,37 @@ Field of Study: Information and Communication Technology (ICT) - Level in IoT, L
 
 **Performance & Optimization:** Load and stress testing • Application performance monitoring • Designing and implementing high-availability systems • Continuous Integration and Continuous Delivery (CI/CD) • Docker containerization • Cloud platforms (AWS, GCP)
 
-**Management & Leadership:** Process improvement identification • Product improvements • agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coaching
+**Management & Leadership:** Process improvement identification • Product improvements • Agile methodology • Technical leadership • Sprint planning and execution • Mentoring and coaching
 
 **Communication & Collaboration:** Cross-functional collaboration • Written and verbal communication • Problem-solving • Analytical thinking • Adaptability
 
-## 🌐 Language Skills
+## 🎯 Hobbies and Interests
 
-**Primary Language:** ENGLISH  
-**Other Languages:** NIGERIAN PIDGIN, IGBO, YORUBA
+**Sports and Team Activities**
+- Regularly engage in lawn tennis, football (soccer), and badminton
+- Promote physical fitness, teamwork, and strategic thinking
 
-| Language | Understanding | Reading | Speaking | Writing |
-|----------|---------------|---------|----------|---------|
-| **ENGLISH** | A1+ | A1+ | A1+ | A1+ |
-| **NIGERIAN PIDGIN** | A1+ | A1+ | A1+ | A1+ |
+**Games and Social Interaction**
+- Participate in interactive and social games such as charades and dancing
+- Enhance communication, creativity, and social bonding
+
+**Problem Solving and Analytical Thinking**
+- Enjoy solving puzzles and logic-based challenges
+- Strengthen critical thinking and analytical abilities
+
+## 🤝 Volunteering & Community Impact
+
+**Sustainability Champion - UN Sustainable Development Goals (SDGs) Volunteer**
+- Participated in sustainability initiatives aligned with the UN SDGs
+- Contributed to social impact and knowledge-sharing projects
+
+**Community Development Volunteer - Lagos, Nigeria**
+- Participated in community development initiatives aligned with UN Sustainable Development Goals
+- Actively contributed to humanitarian causes supporting local communities and improving social welfare
+
+**Volunteer Activities**
+- Participated in service-oriented mentorship and community development programs
+- Contributing to humanitarian and social impact projects
 
 ## 📊 What Drives Me
 
@@ -136,6 +165,7 @@ Field of Study: Information and Communication Technology (ICT) - Level in IoT, L
 - 🌐 Developing **responsive, beautiful interfaces** with excellent UX
 - 📈 Staying ahead with **emerging technologies** in AI, cloud computing, and performance engineering
 - 🤝 Mentoring **next-generation engineers** and fostering technical excellence
+- 🌍 Contributing to **community development** and **sustainable impact**
 
 ## 🤝 Let's Collaborate!
 
@@ -145,10 +175,12 @@ I'm passionate about working on:
 - **AI & Machine Learning** — Speech recognition, document processing, intelligent systems
 - **Quality Assurance** — Automated testing, continuous validation
 - **DevOps & Cloud** — Containerization, CI/CD, scalable infrastructure
+- **Community Impact** — Sustainable development projects
+- **International Collaboration** — Cross-cultural tech projects
 - **Open Source** — Contributing to tech communities
 - **Innovative Ideas** — Your startup, research project, or challenging technical challenge
 
 ---
 
 **Let's build fast, scalable, and intelligent systems together.** 🚀  
-[Explore My Repositories](https://github.com/Favy-source?tab=repositories) | [Download CV](https://www.mocklum.fav.com)
+[Explore My Repositories](https://github.com/Favy-source?tab=repositories) | [Get in Touch](mailto:phavorfavor@gmail.com)
